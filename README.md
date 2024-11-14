@@ -1,5 +1,5 @@
 # latinmafiatour2025.com.github.io
-Github page view: https://artistslp.github.io/latinmafiatour2025.com.github.io
+Github page view: https://artistslp.github.io/latinmafiatour2025.com.github.io<br>CloudFlare page view: https://latinmafiatour2025-com-github-io.pages.dev/<br>CloudFlare page setup: https://dash.cloudflare.com/73ed68d334e86dadb392d542c204707b/pages/view/latinmafiatour2025-com-github-io
 ## block_hero
 title: Latin Mafia Tour 2025<br>text1: Te Odio Y Te Extraño Mucho<br>text2: ene 16, 2025 – jun 13, 2025
 ## block_text
